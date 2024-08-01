@@ -2,7 +2,7 @@
 
 I'm a Frontend Engineer with 8 years experience building interactive web apps. I care about good design, solving problems, and making the web more usable one page at a time.
 
-[More about me.](trishalim.com)
+[More about me.](https://trishalim.com)
 
 <!--
 **trishalim/trishalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
